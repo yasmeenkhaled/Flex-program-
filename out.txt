@@ -1,0 +1,6 @@
+Word : this     characters:4
+Word : is         characters:2
+Word : a           characters:1
+Word : sample  characters:6
+Word : text     characters:4
+Word : file     characters:4
